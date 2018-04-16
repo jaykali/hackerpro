@@ -114,7 +114,7 @@ Video Tutorial : Coming Soon
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Youtube](https://www.youtube.com/c/TechnicalDada), [Facebook](https://www.facebook.com/technicaldada.in), [Github](https://www.github.com/technicaldada) & VISIT My [Blog](http://www.technicaldada.in) Website..!!!
+& Don't Forget To Follow Me At [Youtube](https://www.youtube.com/c/TechnicalDada), [Facebook](https://www.facebook.com/technicaldada.in), [Github](https://www.github.com/technicaldada) & VISIT My [Website](http://www.technicaldada.in)..!!!
 
 ***Thankyou.***
 ***Keep Visiting..***
