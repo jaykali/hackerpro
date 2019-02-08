@@ -1,4 +1,4 @@
-<p align="center">***Pentesing Tools That All Hacker Needs.***</p>
+<p align="center">***Pentesing Tools That All Hacker Needs***</p>
 
 ## HACKERPRO Menu :
 
@@ -92,7 +92,7 @@
 
 Open Terminal and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
 
-After Downloading The File Type : ```cd hackerpro && python hackerpro.py```
+After Downloading The File Type : ```sudo cd hackerpro && sudo python hackerpro.py```
 
 Video Tutorial : Coming Soon
 
@@ -114,8 +114,9 @@ Video Tutorial : Coming Soon
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Youtube](https://www.youtube.com/c/TechnicalDada), [Facebook](https://www.facebook.com/technicaldada.in), [Github](https://www.github.com/technicaldada) & VISIT My [Website](http://www.technicaldada.in)..!!!
+& Don't Forget To Follow Me At [Youtube](https://www.youtube.com/c/TechnicalDada), [Facebook](https://www.facebook.com/technicaldada.in), [Github](https://www.github.com/technicaldada) & VISIT My Personal [Website](http://www.technicaldada.in).. Visit Our [Blog For Hackers](https://www.kalilinux.in) !!!
 
 ***Thankyou.***
 ***Keep Visiting..***
+***Check our blog https://www.kalilinux.in***
 ***Enjoy.!!! :)***
