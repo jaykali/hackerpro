@@ -92,7 +92,7 @@
 
 Open Terminal and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
 
-After Downloading The File Type : ```sudo cd hackerpro && sudo python hackerpro.py```
+After Downloading The File Type : ```sudo cd hackerpro && sudo python2 hackerpro.py```
 
 Video Tutorial : Coming Soon
 
@@ -100,11 +100,11 @@ Video Tutorial : Coming Soon
 
 1st Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
-Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python```
+Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python2```
 
 After That Open Termux and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
 
-Then Type : ```cd hackerpro && python hackerpro.py```
+Then Type : ```cd hackerpro && python2 hackerpro.py```
 
 Video Tutorial : Coming Soon
 
