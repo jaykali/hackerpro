@@ -118,7 +118,7 @@ Video Tutorial : Coming Soon
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Youtube](https://www.youtube.com/c/TechnicalDada), [Facebook](https://www.facebook.com/technicaldada.in), [Github](https://www.github.com/technicaldada).. Visit Our [Blog For Hackers](https://www.kalilinux.in) !!!
+& Don't Forget To Visit Our [Blog For Hackers](https://www.kalilinux.in) !!!
 
 ***Thankyou.***
 ***Keep Visiting..***
