@@ -1,3 +1,11 @@
+[![GitHub issues](https://img.shields.io/github/issues/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/issues)
+[![GitHub forks](https://img.shields.io/github/forks/[![GitHub issues](https://img.shields.io/github/issues/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/issues)
+.svg)](https://github.com/[![GitHub issues](https://img.shields.io/github/issues/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/issues)
+/network)
+[![GitHub stars](https://img.shields.io/github/stars/[![GitHub issues](https://img.shields.io/github/issues/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/issues)
+.svg)](https://github.com/[![GitHub issues](https://img.shields.io/github/issues/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/issues)
+/stargazers)
+
 <p align="center">***Pentesing Tools That All Hacker Needs***</p>
 
 ## HACKERPRO Menu :
