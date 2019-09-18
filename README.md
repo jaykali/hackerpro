@@ -4,7 +4,7 @@
 
 <p align="center">***Pentesing Tools That All Hacker Needs***</p>
  <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
- </center>
+ 
 ## HACKERPRO Menu :
 
 - Information Gathering
@@ -104,6 +104,7 @@ Video Tutorial : Coming Soon
 ## Installation in Android :
 
 1st Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
+</center>
 
 Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python2```
 
