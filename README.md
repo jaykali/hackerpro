@@ -3,7 +3,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/stargazers)
 
 <p align="center">***Pentesing Tools That All Hacker Needs***</p>
- <img src="logo205x250.gif" alt="hackerpro_logo" height="42" width="42"> 
+ <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
 ## HACKERPRO Menu :
 
 - Information Gathering
