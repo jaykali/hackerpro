@@ -101,7 +101,7 @@ HACKERPROlogo = """\033[0m
       
             ~Tools For Hacking by by-Technical Dada
 
-\033[91m"""
+\033[1m"""
 def menu():
     print (HACKERPROlogo + """\033[1m
  [!] This Tool Must Run As ROOT [!] https://github.com/technicaldada/hackerpro
