@@ -1,6 +1,6 @@
-[![GitHub issues](https://img.shields.io/github/issues/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/issues)
-[![GitHub forks](https://img.shields.io/github/forks/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/network)
-[![GitHub stars](https://img.shields.io/github/stars/technicaldada/hackerpro.svg)](https://github.com/technicaldada/hackerpro/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/jaykali/hackerpro.svg)](https://github.com/technicaldada/jaykali/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jaykali/hackerpro.svg)](https://github.com/jaykali/hackerpro/network)
+[![GitHub stars](https://img.shields.io/github/stars/jaykali/hackerpro.svg)](https://github.com/jaykali/hackerpro/stargazers)
 
 <p align="center">***Pentesing Tools That All Hacker Needs***</p>
  <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
@@ -95,7 +95,7 @@
 
 ## Installation in Linux :
 
-Open Terminal and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
+Open Terminal and Type : ```git clone https://github.com/jaykali/hackerpro.git```
 
 After Downloading The File Type : ```sudo cd hackerpro && sudo python2 hackerpro.py```
 
@@ -108,7 +108,7 @@ Video Tutorial : Coming Soon
 
 Then Open Termux and Type : ```apt update && apt upgrade && apt install git && apt install python2```
 
-After That Open Termux and Type : ```git clone https://github.com/technicaldada/hackerpro.git```
+After That Open Termux and Type : ```git clone https://github.com/jaykali/hackerpro.git```
 
 Then Type : ```cd hackerpro && python2 hackerpro.py```
 
@@ -116,7 +116,7 @@ Video Tutorial : Coming Soon
 
 ## License :
 
-[MIT Licence](https://github.com/technicaldada/hackerpro/blob/master/LICENSE)
+[MIT Licence](https://github.com/jaykali/hackerpro/blob/master/LICENSE)
 
 Thats It... If You Like This Repo. Please Share This With Your Friends..
 
